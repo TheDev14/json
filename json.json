@@ -92,7 +92,7 @@
 {"origen":"Canarias","name":"La 1 Canarias","url":"https://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@134665/master.m3u8"},
 {"origen":"Cataluna","name":"La 1 Catalunya","url":"https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@130182/master.m3u8"},
 {"origen":"Cataluna","name":"La 1 Catalunya","url":"https://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@117262/master.m3u8"},
-{"origen":"Nacionales","name":"La 2","url":"https://rtvelivestreamv3.akamaized.net/rtvesec/la2/master.m3u8"},
+{"origen":"Nacionales","name":"La 2","url":"https://rtvelivestreamv3.akamaized.net/rtvesec/la2/la2_main_1080.m3u8"},
 {"origen":"CastillayLeon","name":"La 8 Avila","url":"https://cdnlive.shooowit.net/la8avilalive/smil:streamswitchingchannel.smil/playlist.m3u8"},
 {"origen":"CastillayLeon","name":"La 8 Bierzo","url":"https://cdnlive.shooowit.net/la8bierzolive/smil:streamswitchingchannel.smil/playlist.m3u8"},
 {"origen":"CastillayLeon","name":"La 8 Burgos","url":"https://cdnlive.shooowit.net/la8burgoslive/smil:streamswitchingchannel.smil/playlist.m3u8"},
